@@ -1,0 +1,8 @@
+{
+  "name": "phrasesTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "08f00c3f"
+}
